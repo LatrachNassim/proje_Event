@@ -1,0 +1,850 @@
+{
+    "total_count": 2557,
+    "links": [
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records?start=0&rows=10",
+            "rel": "self"
+        },
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records?start=0&rows=10",
+            "rel": "first"
+        },
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records?start=2550&rows=10",
+            "rel": "last"
+        },
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records?start=10&rows=10",
+            "rel": "next"
+        }
+    ],
+    "records": [
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/e68d86eccecbabcb158dd2ef2d41395c2cc60cc2",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "e68d86eccecbabcb158dd2ef2d41395c2cc60cc2",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 4398,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 1,
+                    "date_end": "2020-12-05T15:00:00+00:00",
+                    "deaf": 1,
+                    "updated_at": "2020-10-28T09:47:11+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-10-03T14:30:00+02:00_2020-10-03T16:00:00+02:00;2020-12-05T14:30:00+01:00_2020-12-05T16:00:00+01:00",
+                    "contact_name": "M\u00e9diath\u00e8que de la Canop\u00e9e la fontaine",
+                    "address_street": "10 passage de la Canop\u00e9e",
+                    "id": "107049",
+                    "transport": "Les Halles, ligne 4 / Ch\u00e2telet, ligne 1, 7, 11, 14\nMarcel et rue du Louvre): 21, 29, 38, 47, 58, 67, 69, 70, 72, 74, 75, 76, 81, 85 et 96.\nCh\u00e2telet - Les Halles : ligne A, B et D",
+                    "category": "Animations -> Atelier / Cours",
+                    "title": "Samedi PAM",
+                    "cover_alt": "Samedi PAM",
+                    "date_start": "2020-10-03T12:30:00+00:00",
+                    "price_detail": null,
+                    "access_link": "http://bit.ly/AnimCanopee",
+                    "lat_lon": {
+                        "lat": 48.862398605543724,
+                        "lon": 2.346852776998958
+                    },
+                    "address_name": "M\u00e9diath\u00e8que de la Canop\u00e9e la fontaine",
+                    "contact_twitter": "https://twitter.com/bibcanopee?lang=fr",
+                    "contact_phone": "01 44 50 76 56",
+                    "contact_url": "http://equipement.paris.fr/mediatheque-de-la-canopee-la-fontaine-16634",
+                    "description": "<h4 class=\"MsoNormal\" style=\"\"><b><span style=\"color:#1F497D\"></span></b><span style=\"color:#1F497D\"></span>Ce semestre, nous vous proposons un parcours sensoriel \u00e0 travers trois s\u00e9ances de Samedis PAM.<br></h4><p><b>Samedi 3 octobre : D\u00e9couverte de la lecture en braille : </b><br></p><p>Dans cet atelier, propos\u00e9 par l'association<a href=\"http://percevoir.org/spip.php?article3#ateliers\" target=\"_blank\" rel=\"noopener noreferrer\"> \"Percevoir\"</a> avec le bout des doigts et sans utiliser la vue, les participants m\u00e9moriseront et d\u00e9couvriront de nouvelles fa\u00e7ons de lire et d'\u00e9crire. Par l'\u00e9coute et le toucher, les participants seront accompagn\u00e9s dans leur apprentissage pour d\u00e9coder des mots et des lettres en prenant plaisir dans leur lecture.</p> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/09/24/74412_UGVyY2V2b2lyX0JENDcuanBn.jpg\" alt=\"livre en braille\"></div> <div class=\"component-video\"><div class=\"component-video-wrapper\"><iframe src=\"https://www.youtube.com/embed/vyapTDrzz6Y?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"Canop\u00e9e | Samedi PAM - D\u00e9couverte de la lecture en braille\"></iframe></div></div> <p class=\"\" style=\"\"><b><br></b><b>Samedi 5 d\u00e9cembre : atelier d\u00e9couverte de la LSF tactile</b>&nbsp;<br></p><p class=\"MsoNormal\"><br>D\u00e9veloppez vos connaissances sur la vie quotidienne des personnes sourdes et aveugles et d\u00e9couvrez et/ou pratiquez la LSF tactile. Atelier anim\u00e9&nbsp; par l'\u2019association <a href=\"https://www.accesvisuel.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">AccesVisuel</a>.</p><p class=\"MsoNormal\" style=\"\"><i>Pour adultes et enfants \u00e0 partir de 8 ans</i></p><p><b>Ateliers UNIQUEMENT en Langue des Signes Fran\u00e7aise (LSF). </b></p><p class=\"\" style=\"\"><b><a href=\"https://www.billetweb.fr/multi_event.php?multi=4662\">inscription&nbsp;obligatoire</a> (les inscriptions sont ouvertes le 15 du mois pr\u00e9c\u00e9dent l'atelier)</b></p><p class=\"\" style=\"\"><br><b><b><b>Pour la s\u00e9curit\u00e9 sanitaire de tous, merci de veiller \u00e0 respecter  la distanciation physique, de vous laver les mains en entrant (du gel hydroalcoolique sera \u00e0 votre disposition) et de porter un masque.</b></b></b></p><p class=\"\" style=\"\"><br><br></p><p style=\"\" class=\"\"><br></p>",
+                    "tags": [
+                        "Ados",
+                        "Biblioth\u00e8ques",
+                        "En famille"
+                    ],
+                    "contact_mail": "mediatheque.canopee@paris.fr",
+                    "access_mail": null,
+                    "lead_text": "Samedi PAM, c'est un rendez-vous une fois par mois, pour des ateliers de d\u00e9couverte",
+                    "cover_url": "https://quefaire-api.paris.fr/images/57860",
+                    "contact_facebook": "https://fr-fr.facebook.com/M%C3%A9diath%C3%A8que-de-la-Canop%C3%A9e-la-fontaine-871696262848540/",
+                    "access_phone": null,
+                    "cover_credit": "m\u00e9diath\u00e8que de la canop\u00e9e",
+                    "address_city": "Paris",
+                    "programs": "Le mois des p\u00f4les handicap des biblioth\u00e8ques (https://quefaire.paris.fr/106883/le-mois-des-poles-handicap-des-bibliotheques)",
+                    "url": "https://quefaire.paris.fr/107049/samedi-pam-uniquement-en-lsf",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/9b805a4d9ccceb358b7eaaf082e0720b",
+                        "color_summary": [
+                            "rgba(225, 223, 222, 1.00)",
+                            "rgba(166, 184, 170, 1.00)",
+                            "rgba(214, 228, 213, 1.00)"
+                        ],
+                        "filename": "57860.jpe",
+                        "last_synchronized": "2020-10-30T05:00:35.412202",
+                        "width": 1920,
+                        "etag": "\"9595dfdd637affed2b54946c199e6bc0\"",
+                        "id": "9b805a4d9ccceb358b7eaaf082e0720b",
+                        "height": 1080,
+                        "thumbnail": true
+                    },
+                    "price_type": "gratuit",
+                    "date_description": "Le samedi 3 octobre 2020<br />de 14h30 \u00e0 16h<br />Le samedi 5 d\u00e9cembre 2020<br />de 14h30 \u00e0 16h<br />",
+                    "address_zipcode": "75001"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/6a11f0c9d88f2260c4b35b46793b633960f024fb",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "6a11f0c9d88f2260c4b35b46793b633960f024fb",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 7678,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-11-12T18:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-27T10:51:09+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-11-12T17:30:00+01:00_2020-11-12T19:00:00+01:00",
+                    "contact_name": "M\u00e9diath\u00e8que de la Canop\u00e9e",
+                    "address_street": "Forum des halles -  La Canop\u00e9e",
+                    "id": "110950",
+                    "transport": "Les Halles, ligne 4 / Ch\u00e2telet, ligne 1, 7, 11, 14\nCh\u00e2telet - Les Halles : ligne A, B et D",
+                    "category": "Animations -> Conf\u00e9rence / D\u00e9bat",
+                    "title": "Table ronde \"Molards et Moli\u00e8re : les langages du rap\"",
+                    "cover_alt": "Affiche molards et moli\u00e8re",
+                    "date_start": "2020-11-12T16:30:00+00:00",
+                    "price_detail": null,
+                    "access_link": "https://www.eventbrite.fr/e/billets-table-ronde-molards-et-moliere-les-langages-du-rap-126076854265",
+                    "lat_lon": {
+                        "lat": 48.862346,
+                        "lon": 2.347444
+                    },
+                    "address_name": "La Place",
+                    "contact_twitter": "https://twitter.com/bibCanopee",
+                    "contact_phone": "0144507656",
+                    "contact_url": "https://bibliothequecanopee.wordpress.com/",
+                    "description": "<p class=\"\"><b>CET \u00c9V\u00c9NEMENT EST COMPLET. <br></b></p><p><b>La Compagnie Trous d'M\u00e9moires</b>, dirig\u00e9e par le rappeur Isma\u00ebl Metis, invite r\u00e9guli\u00e8rement acteur-es et publics \u00e0 discuter des questions de li\u00e9es au mouvement Hip Hop et/ou \u00e0 sa place dans la soci\u00e9t\u00e9. Ces activit\u00e9s s'inscrivent dans le #HipHopKnowledge (ou #SavoirHipHop), discipline \u00e0 part enti\u00e8re du</p><p>mouvement.</p><p class=\"\"><b>INTERVENANT-ES</b></p><ul><li><a href=\"https://www.facebook.com/levraiISHA/\"><b>ISHA (rappeur)</b></a> Il a des airs de rookie mais balade son ombre depuis un bail dans la fournaise Bruxelloise. Sans jamais donner l'impression de faire le grand \u00e9cart, ISHA r\u00e9ussit la rencontre du texte qui parle et de la punchline qui cogne, du morceau deep et du Banger sale, sans la moindre concession. Il vous raconte ses rois d\u00e9chus, sa princesse ab\u00eem\u00e9e, son pote rebeu aux dents cass\u00e9es. Elle est un peu brute, la rime d'ISHA, elle est pas lisse. Elle est sensible, puis elle est crade, elle sent la rue, la rime d'ISHA. Sortez, il pleut. Pour en entendre un peu plus, <a href=\"https://isha.lnk.to/LVA3FA?fbclid=IwAR39df_4diL_LGGYx-eBBCV4HU2hfu9XTZEuIJcKCpGjFMEr06N6uvqMFL4\" target=\"_blank\" rel=\"noopener noreferrer\">c'est ici !&nbsp;</a><br><a href=\"https://Isha.lnk.to/LVA3FAAurore\"><span data-auto-link=\"true\" data-href=\"https://Isha.lnk.to/LVA3FAAurore\"></span></a></li></ul><ul><li><b>Aurore VINCENTI (linguiste)</b> - Linguiste \u00e0 la notori\u00e9t\u00e9 grandissante, elle nous montre que la langue fran\u00e7aise continue de s'inventer \u00e0 travers une g\u00e9n\u00e9tique qui lui est propre. Autrice du livre \"Les Mots du Bitume (De Rabelais aux rappeurs : petit dictionnaire de la langue de la rue)\" et pour Le Robert, Chroniqueuse sur France 2 (<a href=\"https://www.facebook.com/jetaimeetc/\" target=\"_blank\" rel=\"noopener noreferrer\">Je t'aime etc</a>), Aurore VINCENTI a partag\u00e9 son travail plusieurs ann\u00e9es chez France Inter. Pour en entendre un peu plus : <a href=\"https://www.franceinter.fr/emissions/la-chronique-d-aurore-vincenti\"><span data-auto-link=\"true\" data-href=\"http://www.franceinter.fr/emissions/la-chronique-d-aurore-vincentiV\u00eerus\">www.franceinter.fr/emissions/la-chronique-d-aurore-vincenti</span></a><br><a href=\"http://www.franceinter.fr/emissions/la-chronique-d-aurore-vincentiV\u00eerus\"><span data-auto-link=\"true\" data-href=\"http://www.franceinter.fr/emissions/la-chronique-d-aurore-vincentiV\u00eerus\"></span></a></li></ul><ul><li><a href=\"https://www.facebook.com/virus.rayondufond/\"><span data-auto-link=\"true\" data-href=\"http://www.franceinter.fr/emissions/la-chronique-d-aurore-vincentiV\u00eerus\">V\u00eerus</span> (rappeur)</a> - Il ne rappe pas comme tout le monde, et \u00e9crit comme personne. V\u00eerus pratique l\u2019\u00e9criture en profondeur, comme un auteur en apn\u00e9e dans les abysses de nos ind\u00e9fectibles travers, de nos renoncements, nos faiblesses, nos sales mis\u00e8res. Il les remonte au grand jour, les ausculte de fa\u00e7on clinique. Premier rappeur invit\u00e9 par l\u2019Ecole Normale Sup\u2019, artiste parmi les plus annot\u00e9s du site sp\u00e9cialis\u00e9 Genius\u2026 il a r\u00e9cemment l'id\u00e9e loufoque de rapper les textes de Jehan-Rictus, po\u00e8te boulonnais du XIX\u00e8me si\u00e8cle (\"Les Soliloques du Pauvres\", 2017 ; \"Printemps\", 2020). Pour en entendre un peu plus, <a href=\"https://rayondufond.bandcamp.com/?fbclid=IwAR3KJqbFQsKHjstd-cXEoxgIbsIHv8Qg_0H4GlHNNw7oKjd9BCt0X8Vedsc\" target=\"_blank\" rel=\"noopener noreferrer\">c'est ici !&nbsp;</a></li></ul> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/09/17/74079_Q3LDqWRpdCAtIEFsZXhpcyBWRVRUT1JFVFRJIDIuanBn.jpg?w=Large\" alt=\"Photo de V\u00eerus (rappeur)\"></div> <div></div><ul><li>Anim\u00e9 par <a href=\"https://www.facebook.com/MamecheOuafa/\" target=\"_blank\" rel=\"noopener noreferrer\">Ouafa Mameche</a> (<a href=\"https://www.facebook.com/abcdrduson/\" target=\"_blank\" rel=\"noopener noreferrer\">Abcdrduson.com</a>, <a href=\"https://www.facebook.com/MouvRadio/\" target=\"_blank\" rel=\"noopener noreferrer\">Mouv'</a>)</li></ul><ul><li>Illustr\u00e9 en direct par <a href=\"https://www.facebook.com/bilelallem/\" target=\"_blank\" rel=\"noopener noreferrer\">Bilel Allem</a></li></ul><p class=\"\">Affiche par Bilel Allem</p><p class=\"\">En collaboration avec La Place, la Maison de la Po\u00e9sie et la m\u00e9diath\u00e8que de la Canop\u00e9e. <br></p><p class=\"\">Dans le cadre du cycle \"Hip-hop et \u00e9critures\" du festival Paris en Toutes Lettres. Cette table ronde se d\u00e9roulera dans le Grand Studio L\u00e9o Ferr\u00e9 de La Place. <br></p> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/09/17/74082_TG9nbyBQRVRMLnBuZw==.jpg?w=Large\" alt=\"logo du festival Paris en toutes lettres\"></div> <p class=\"\"><br></p> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/09/17/74081_TWFpc29uIGRlIGxhIHBvw6lzaWUucG5n.jpg?w=Large\" alt=\"logo de la maison de la po\u00e9sie\"></div> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/09/29/74576_TEFQTEFDRVYyX0xPR09fT1VUTElORV9TVEFNUF9XIFIgMjAwLnBuZw==.jpg\" alt=\"logo de la place\"></div> <div class=\"component-image\"><img src=\"https://cdn.paris.fr/qfap/2020/10/22/75477_Q09VVi1Nb2xhcmRzLWV0LU1vbGllcmUgKDEpLnBuZw==.jpg\" alt=\"Affiche de l'\u00e9v\u00e8nement \"Molards et Moli\u00e8re\"\"></div> <p><br></p>",
+                    "tags": [
+                        "Urbain",
+                        "Ados",
+                        "Musique",
+                        "Biblioth\u00e8ques"
+                    ],
+                    "contact_mail": "mediatheque.canopee@paris.fr",
+                    "access_mail": null,
+                    "lead_text": "CET \u00c9V\u00c9NEMENT EST COMPLET. Utiliser un registre soutenu pour imiter ou challenger les \u00e9lites? Longues envol\u00e9es lyricales ou successions de punchlines? Nous tenterons de faire un tour d'horizon des questions que (se) posent les rappeurs dans leur rapport \u00e0 la langue fran\u00e7aise, qu'ils font \u00e9voluer comme personne depuis le dernier demi-si\u00e8cle.",
+                    "cover_url": "https://cdn.paris.fr/qfap/2020/09/17/74078_TW9sYXJkcy1ldC1Nb2xpZXJlMi5wbmc=.jpg",
+                    "contact_facebook": "https://www.facebook.com/bibcanopee/?ref=hl",
+                    "access_phone": null,
+                    "cover_credit": "Bilel Allem",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/110950/table-ronde-molards-et-moliere-les-langages-du-rap",
+                    "cover": {
+                        "mimetype": "image/png",
+                        "format": "PNG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/c6de48a4397bed67485aced168ec9df4",
+                        "color_summary": [
+                            "rgba(159, 72, 48, 1.00)",
+                            "rgba(111, 58, 30, 1.00)",
+                            "rgba(145, 85, 51, 1.00)"
+                        ],
+                        "filename": "74078_TW9sYXJkcy1ldC1Nb2xpZXJlMi5wbmc=.jpg",
+                        "last_synchronized": "2020-09-18T04:00:36.487069",
+                        "width": 789,
+                        "etag": "\"c33aa74e05a1d4a996dab4240a84e263-1\"",
+                        "id": "c6de48a4397bed67485aced168ec9df4",
+                        "height": 890,
+                        "thumbnail": true
+                    },
+                    "price_type": "gratuit",
+                    "date_description": "Le jeudi 12 novembre 2020<br />de 17h30 \u00e0 19h<br />",
+                    "address_zipcode": "75001"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/f2495ad8d2e3230a983b450e9225b6bbbd47dc42",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "f2495ad8d2e3230a983b450e9225b6bbbd47dc42",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 1888,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-12-19T16:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-27T09:37:43+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-12-19T15:00:00+01:00_2020-12-19T17:00:00+01:00",
+                    "contact_name": "Biblioth\u00e8que Marguerite Audoux",
+                    "address_street": "10 rue Portefoin",
+                    "id": "110976",
+                    "transport": "3 : Temple (308m)\n3, 11 : Arts et M\u00e9tiers (316m)",
+                    "category": "Spectacles -> Projection",
+                    "title": "Les samedis du documentaire",
+                    "cover_alt": "Forbach swing",
+                    "date_start": "2020-12-19T14:00:00+00:00",
+                    "price_detail": null,
+                    "access_link": null,
+                    "lat_lon": {
+                        "lat": 48.863696,
+                        "lon": 2.359965
+                    },
+                    "address_name": "Biblioth\u00e8que Marguerite Audoux",
+                    "contact_twitter": null,
+                    "contact_phone": "01 44 78 55 20",
+                    "contact_url": null,
+                    "description": "<p>Dans les trois rues du quartier du Holveg, dit \"le trou\", de Forbach, une ribambelle de musiciens (dont Samson Schmitt, Rovelo Merstein et Mike Reinhardt) perp\u00e9tue&nbsp;avec d\u00e9termination et panache&nbsp;leur h\u00e9ritage musical manouche auquel ils greffent des influences jazz et soul. Marie Dumora salue une communaut\u00e9-orchestre qui, par le biais de la musique, s\u2019est construit sa propre m\u00e9moire et ses propres h\u00e9ros,&nbsp;\u00e0 l\u2019instar de Dorado Schmitt (p\u00e8re de Samson), guitariste l\u00e9gendaire admir\u00e9 par la nouvelle g\u00e9n\u00e9ration.</p>",
+                    "tags": [
+                        "Musique",
+                        "Cin\u00e9ma",
+                        "Biblioth\u00e8ques"
+                    ],
+                    "contact_mail": null,
+                    "access_mail": null,
+                    "lead_text": "\"Forbach swing\" de Marie Dumora (2019, France, 1h49)\nFestival du r\u00e9el 2019, Prix du Patrimoine de l'immat\u00e9riel",
+                    "cover_url": "https://cdn.paris.fr/qfap/2020/09/17/74103_Rm9yYmFjaCBzd2luZy5qcGc=.jpg",
+                    "contact_facebook": null,
+                    "access_phone": "0144785520",
+                    "cover_credit": "Les Productions Balthazar",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/110976/les-samedis-du-documentaire",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/d3957021b965d0c0c1b01f1d15996262",
+                        "color_summary": [
+                            "rgba(82, 73, 56, 1.00)",
+                            "rgba(100, 93, 81, 1.00)",
+                            "rgba(106, 94, 78, 1.00)"
+                        ],
+                        "filename": "74103_Rm9yYmFjaCBzd2luZy5qcGc=.jpg",
+                        "last_synchronized": "2020-09-18T04:00:24.708953",
+                        "width": 768,
+                        "etag": "\"669b5c85a7eba1a9cb529a6d2d770aa0-1\"",
+                        "id": "d3957021b965d0c0c1b01f1d15996262",
+                        "height": 320,
+                        "thumbnail": true
+                    },
+                    "price_type": "gratuit",
+                    "date_description": "Le samedi 19 d\u00e9cembre 2020<br />de 15h \u00e0 17h<br />",
+                    "address_zipcode": "75003"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/6cd895fbb94d6dd8f6647c2447316dc6a14b5ea1",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "6cd895fbb94d6dd8f6647c2447316dc6a14b5ea1",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 1645,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-10-31T19:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-27T07:39:19+00:00",
+                    "access_type": "libre",
+                    "occurrences": "2020-10-31T18:00:00+01:00_2020-10-31T20:00:00+01:00",
+                    "contact_name": "New Morning",
+                    "address_street": "9 Rue des Petites \u00c9curies",
+                    "id": "113063",
+                    "transport": null,
+                    "category": "Concerts -> Autre concert",
+                    "title": "Culte",
+                    "cover_alt": null,
+                    "date_start": "2020-10-31T17:00:00+00:00",
+                    "price_detail": "10\u20ac",
+                    "access_link": null,
+                    "lat_lon": {
+                        "lat": 48.87289920000001,
+                        "lon": 2.353308200000015
+                    },
+                    "address_name": "New Morning",
+                    "contact_twitter": null,
+                    "contact_phone": "0145235141",
+                    "contact_url": "https://www.newmorning.com/20201031-4997-culte.html",
+                    "description": "<p>Partout o\u00f9 ils passent, arm\u00e9s de cuivres et de synth\u00e9tiseurs, ils d\u00e9livrent un groove solide et d\u00e9jant\u00e9, propageant un message de bonne humeur \u00e0 destination de toutes les oreilles et de tous les corps !</p><p></p><p>Inspir\u00e9 par des artistes tels que Prince, Tower of Power ou encore Lettuce, Culte a d\u00e9j\u00e0 sorti un 1er EP \u00e9ponyme en 2018, le second ne devant plus tarder... En attendant, c'est surtout sur sc\u00e8ne que cet escadron du funk va vous chambouler : transes rythmiques, improvisations psych\u00e9d\u00e9liques et cuivres survolt\u00e9s !</p>",
+                    "tags": [
+                        "Musique"
+                    ],
+                    "contact_mail": null,
+                    "access_mail": null,
+                    "lead_text": "Culte, c'est l'union de sept mercenaires des temps modernes au service d'une seule cause : Le FUNK.",
+                    "cover_url": "https://pro.sowprog.com/downloads?name=img_event_d164b3ce-b4ad-4e72-ba08-b7403c159d62.png",
+                    "contact_facebook": null,
+                    "access_phone": null,
+                    "cover_credit": null,
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/113063/culte",
+                    "cover": {
+                        "mimetype": "image/png",
+                        "height": 868,
+                        "format": "PNG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/53f888d130474859839079921153f7f6",
+                        "color_summary": [
+                            "rgba(128, 93, 86, 1.00)",
+                            "rgba(124, 81, 83, 1.00)",
+                            "rgba(117, 78, 78, 1.00)"
+                        ],
+                        "thumbnail": true,
+                        "last_synchronized": "2020-10-28T05:00:28.370571",
+                        "width": 1344,
+                        "filename": "downloads.png",
+                        "id": "53f888d130474859839079921153f7f6"
+                    },
+                    "price_type": "payant",
+                    "date_description": "Le samedi 31 octobre 2020<br />de 18h \u00e0 20h<br />",
+                    "address_zipcode": "75010"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/4195bbe8c754c973f55c1b90033963c0d0443589",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "4195bbe8c754c973f55c1b90033963c0d0443589",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 6567,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2021-01-07T19:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-27T07:09:25+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-11-12T09:00:00+01:00_2020-11-12T20:00:00+01:00;2020-11-13T09:00:00+01:00_2020-11-13T20:00:00+01:00;2020-11-16T09:00:00+01:00_2020-11-16T20:00:00+01:00;2020-11-17T09:00:00+01:00_2020-11-17T20:00:00+01:00;2020-11-18T09:00:00+01:00_2020-11-18T20:00:00+01:00;2020-11-19T09:00:00+01:00_2020-11-19T20:00:00+01:00;2020-11-20T09:00:00+01:00_2020-11-20T20:00:00+01:00;2020-11-23T09:00:00+01:00_2020-11-23T20:00:00+01:00;2020-11-24T09:00:00+01:00_2020-11-24T20:00:00+01:00;2020-11-25T09:00:00+01:00_2020-11-25T20:00:00+01:00;2020-11-26T09:00:00+01:00_2020-11-26T20:00:00+01:00;2020-11-27T09:00:00+01:00_2020-11-27T20:00:00+01:00;2020-11-30T09:00:00+01:00_2020-11-30T20:00:00+01:00;2020-12-01T09:00:00+01:00_2020-12-01T20:00:00+01:00;2020-12-02T09:00:00+01:00_2020-12-02T20:00:00+01:00;2020-12-03T09:00:00+01:00_2020-12-03T20:00:00+01:00;2020-12-04T09:00:00+01:00_2020-12-04T20:00:00+01:00;2020-12-07T09:00:00+01:00_2020-12-07T20:00:00+01:00;2020-12-08T09:00:00+01:00_2020-12-08T20:00:00+01:00;2020-12-09T09:00:00+01:00_2020-12-09T20:00:00+01:00;2020-12-10T09:00:00+01:00_2020-12-10T20:00:00+01:00;2020-12-11T09:00:00+01:00_2020-12-11T20:00:00+01:00;2020-12-14T09:00:00+01:00_2020-12-14T20:00:00+01:00;2020-12-15T09:00:00+01:00_2020-12-15T20:00:00+01:00;2020-12-16T09:00:00+01:00_2020-12-16T20:00:00+01:00;2020-12-17T09:00:00+01:00_2020-12-17T20:00:00+01:00;2020-12-18T09:00:00+01:00_2020-12-18T20:00:00+01:00;2020-12-21T09:00:00+01:00_2020-12-21T20:00:00+01:00;2020-12-22T09:00:00+01:00_2020-12-22T20:00:00+01:00;2020-12-23T09:00:00+01:00_2020-12-23T20:00:00+01:00;2020-12-24T09:00:00+01:00_2020-12-24T20:00:00+01:00;2020-12-25T09:00:00+01:00_2020-12-25T20:00:00+01:00;2020-12-28T09:00:00+01:00_2020-12-28T20:00:00+01:00;2020-12-29T09:00:00+01:00_2020-12-29T20:00:00+01:00;2020-12-30T09:00:00+01:00_2020-12-30T20:00:00+01:00;2020-12-31T09:00:00+01:00_2020-12-31T20:00:00+01:00;2021-01-01T09:00:00+01:00_2021-01-01T20:00:00+01:00;2021-01-04T09:00:00+01:00_2021-01-04T20:00:00+01:00;2021-01-05T09:00:00+01:00_2021-01-05T20:00:00+01:00;2021-01-06T09:00:00+01:00_2021-01-06T20:00:00+01:00;2021-01-07T09:00:00+01:00_2021-01-07T20:00:00+01:00;2020-11-14T09:00:00+01:00_2020-11-14T17:00:00+01:00;2020-11-21T09:00:00+01:00_2020-11-21T17:00:00+01:00;2020-11-28T09:00:00+01:00_2020-11-28T17:00:00+01:00;2020-12-05T09:00:00+01:00_2020-12-05T17:00:00+01:00;2020-12-12T09:00:00+01:00_2020-12-12T17:00:00+01:00;2020-12-19T09:00:00+01:00_2020-12-19T17:00:00+01:00;2020-12-26T09:00:00+01:00_2020-12-26T17:00:00+01:00;2021-01-02T09:00:00+01:00_2021-01-02T17:00:00+01:00;2020-11-12T17:00:00+01:00_2020-11-12T18:00:00+01:00;2020-11-12T18:00:00+01:00_2020-11-12T19:00:00+01:00;2020-11-12T19:00:00+01:00_2020-11-12T20:00:00+01:00",
+                    "contact_name": "Goethe-Institut Paris",
+                    "address_street": "17 avenue d'I\u00e9na",
+                    "id": "113051",
+                    "transport": "9 : I\u00e9na (234m)\n6 : Boissi\u00e8re (317m)\n63, 82, 32, 22, 30\nRER A (Charles de Gaulle-\u00c9toile)",
+                    "category": "Expositions -> Photographie",
+                    "title": "KATHARINA GAENSSLER - DU D\u00c9BUT \u00c0 LA FIN",
+                    "cover_alt": "K  Gaenssler",
+                    "date_start": "2020-11-12T08:00:00+00:00",
+                    "price_detail": null,
+                    "access_link": "https://www.goethe.de/ins/fr/fr/ver.cfm?event_id=22018620&fuseaction=events.detail&",
+                    "lat_lon": {
+                        "lat": 48.866493,
+                        "lon": 2.294736
+                    },
+                    "address_name": "Goethe-Institut de Paris",
+                    "contact_twitter": "https://twitter.com/gi_paris",
+                    "contact_phone": "0144439230",
+                    "contact_url": "https://www.goethe.de/ins/fr/fr/",
+                    "description": "<p class=\"\">Katharina Gaenssler cr\u00e9e des installations spatiales, le plus souvent temporaires, en explorant un lieu, son architecture et son histoire. Apr\u00e8s avoir \u00e9tudi\u00e9 le travail de l\u2019architecte du Goethe-Institut de Paris, Rainer Schell, l\u2019artiste a con\u00e7u une cr\u00e9ation sp\u00e9ciale pour l\u2019Institut parisien : une intervention tridimensionnelle sous la forme d'un rideau pictural. Quand, apr\u00e8s trente ann\u00e9es de carri\u00e8re, Rainer Schell a mis fin \u00e0 sa profession, il a totalement d\u00e9truit ses archives. Il a simplement regroup\u00e9 une petite s\u00e9lection de ses textes et dessins dans le recueil \u203a30 ans d'architecture\u2039 destin\u00e9 \u00e0 quelques ami\u00b7e\u00b7s et connaissances. Dans son installation sp\u00e9cifique au lieu, Katharina Gaenssler met en regard ce recueil et ses propres archives qu'elle ouvre au public. Elle y pr\u00e9sente toute sa \u00ab m\u00e9moire \u00bb. D'une part, sous forme d'une pr\u00e9sentation num\u00e9rique sur 21 \u00e9crans d'une s\u00e9lection de ses livres-objets et d'autre part, dans une installation multistrate et complexe d'un rideau d'environ 80 m\u00e8tres de long d\u00e9voilant plusieurs centaines de milliers de photos. Tandis que Rainer Schell pr\u00e9conise de \u00ab se d\u00e9lester du pass\u00e9 \u00bb, de se \u00ab r\u00e9duire \u00bb, le travail de Gaenssler consiste \u00e0 collecter, accumuler et donner une dimension plus large \u00e0 des souvenirs. L\u2019utilisation de ses propres archives photographiques dans le sens d\u2019une partition, ainsi que la \u00ab r\u00e9cup\u00e9ration \u00bb de certains vestiges et fragments de ses installations qui ne sont que temporaires sont partie int\u00e9grante du travail de Katharina Gaenssler.<br></p><p>Exposition accessible sur r\u00e9servation uniquement</p><p>Vernissage le jeudi 12 novembre entre 17h et 20h</p><p>L\u2019acc\u00e8s lors du vernissage est limit\u00e9 \u00e0 20 personnes par cr\u00e9neau horaire : 17h-18h ; 18h-19h ; 19h-20h</p>",
+                    "tags": [
+                        "Expos"
+                    ],
+                    "contact_mail": "info-paris@goethe.de",
+                    "access_mail": "info-paris@goethe.de",
+                    "lead_text": "Exposition photo au Goethe-Institut Paris \u00e0 l'occasion du Paris Photo Week-end",
+                    "cover_url": "https://cdn.paris.fr/qfap/2020/10/27/75650_MTIyNzM2NDU1XzEwMTU3OTg5MTg1NDQxMzc0XzE3OTMzOTg4MzI1ODcwMDMxMDJfby5qcGc=.jpg",
+                    "contact_facebook": "https://fr-fr.facebook.com/GoetheInstitutParis/",
+                    "access_phone": "0144439230",
+                    "cover_credit": "DR",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/113051/katharina-gaenssler-du-debut-a-la-fin",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/420836fcfca8844787bd23afc13ae912",
+                        "color_summary": [
+                            "rgba(150, 129, 130, 1.00)",
+                            "rgba(178, 149, 140, 1.00)",
+                            "rgba(164, 146, 142, 1.00)"
+                        ],
+                        "filename": "75650_MTIyNzM2NDU1XzEwMTU3OTg5MTg1NDQxMzc0XzE3OTMzOTg4MzI1ODcwMDMxMDJfby5qcGc=.jpg",
+                        "last_synchronized": "2020-10-28T05:00:29.860529",
+                        "width": 936,
+                        "etag": "\"4d3ee08ad09f6e1b42678cc8fc08f634-1\"",
+                        "id": "420836fcfca8844787bd23afc13ae912",
+                        "height": 1280,
+                        "thumbnail": true
+                    },
+                    "price_type": "gratuit",
+                    "date_description": "Du 12 novembre 2020 au 7 janvier 2021 : <br />lundi, mardi, mercredi, jeudi, vendredi de 9h \u00e0 20h<br />et samedi de 9h \u00e0 17h<br />Le jeudi 12 novembre 2020<br />de 17h \u00e0 18h<br />Le jeudi 12 novembre 2020<br />de 18h \u00e0 19h<br />Le jeudi 12 novembre 2020<br />de 19h \u00e0 20h<br />",
+                    "address_zipcode": "75016"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/a26c558c99b9d82aff9a1fb4c5c2c3fc4bfc1b69",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "a26c558c99b9d82aff9a1fb4c5c2c3fc4bfc1b69",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 2925,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 1,
+                    "date_end": "2021-04-09T20:20:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-26T13:49:48+00:00",
+                    "access_type": "conseillee",
+                    "occurrences": "2020-12-16T20:30:00+01:00_2020-12-16T22:20:00+01:00;2020-12-17T20:30:00+01:00_2020-12-17T22:20:00+01:00;2020-12-18T20:30:00+01:00_2020-12-18T22:20:00+01:00;2020-12-18T14:30:00+01:00_2020-12-18T16:20:00+01:00;2021-04-07T20:30:00+02:00_2021-04-07T22:20:00+02:00;2021-04-08T20:30:00+02:00_2021-04-08T22:20:00+02:00;2021-04-09T20:30:00+02:00_2021-04-09T22:20:00+02:00;2021-04-09T14:30:00+02:00_2021-04-09T16:20:00+02:00",
+                    "contact_name": "Th\u00e9\u00e2tre",
+                    "address_street": "15 bis rue Traversi\u00e8re",
+                    "id": "113036",
+                    "transport": "1, 14 : Gare de Lyon (269m)\n5 : Quai de la Rap\u00e9e (290m)\n20 - 24 - 29 - 57 - 61 - 65 - 87 - 91\nA - D, arr\u00eat \"Gare de Lyon\"",
+                    "category": "Spectacles -> Th\u00e9\u00e2tre",
+                    "title": "TITANIC - Cie Les Moutons Noirs",
+                    "cover_alt": "Titanic",
+                    "date_start": "2020-12-16T19:30:00+00:00",
+                    "price_detail": "Plein tarif : 28 \u20ac \u2022 Tarif r\u00e9duit (moins de 25 ans, demandeurs d\u2019emploi, plus de 65 ans ) : 23 \u20ac \u2022 Enfant (-12 ans) : 15 \u20ac",
+                    "access_link": "https://www.theatre-traversiere.fr/titanic/?iframe=true",
+                    "lat_lon": {
+                        "lat": 48.84603000657913,
+                        "lon": 2.3709900408848057
+                    },
+                    "address_name": "The\u00e2tre Traversi\u00e8re",
+                    "contact_twitter": null,
+                    "contact_phone": "0143466541",
+                    "contact_url": "https://www.theatre-traversiere.fr/titanic/?iframe=true",
+                    "description": "<p>Les neuf com\u00e9diens-chanteurs et trois musiciens sur sc\u00e8ne revisitent avec une belle \u00e9nergie le mythe du Titanic, dans un voyage burlesque et \u00ab immersif \u00bb. En compagnie de ces trublions, embarquez \u00e0 bord du c\u00e9l\u00e8bre vaisseau pour une odyss\u00e9e \u00e9l\u00e9gante et d\u00e9jant\u00e9e, o\u00f9 s\u2019entrem\u00ealent les intrigues et les personnages, les lieux et les coursives. Prenez votre gilet de sauvetage, on largue les amarres !</p>",
+                    "tags": null,
+                    "contact_mail": "billetterie@theatre-traversiere.fr",
+                    "access_mail": "billetterie@theatre-traversiere.fr",
+                    "lead_text": "La plus ou moins v\u00e9ritable histoire du plus c\u00e9l\u00e8bre des naufrages ; une com\u00e9die loufoque et musicale avec le bateau qui coule quand m\u00eame \u00e0 la fin...",
+                    "cover_url": "https://cdn.paris.fr/qfap/2020/10/26/75617_TEVTIE1PVVRPTlMgTk9JUlMgLSBUaXRhbmljICDCqSBFZGl0aW9ucyBhdXN0cmVhbGVzLkpQRw==.jpg",
+                    "contact_facebook": "https://www.facebook.com/Theatre.Traversiere",
+                    "access_phone": "0143466541",
+                    "cover_credit": "\u00a9 Editions austreales",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/113036/titanic-cie-les-moutons-noirs",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/7ea82d5b0af29d57cd4585ead71e8d51",
+                        "color_summary": [
+                            "rgba(24, 15, 14, 1.00)",
+                            "rgba(77, 62, 57, 1.00)",
+                            "rgba(48, 40, 38, 1.00)"
+                        ],
+                        "filename": "75617_TEVTIE1PVVRPTlMgTk9JUlMgLSBUaXRhbmljICDCqSBFZGl0aW9ucyBhdXN0cmVhbGVzLkpQRw==.jpg",
+                        "last_synchronized": "2020-10-27T05:00:21.554058",
+                        "width": 712,
+                        "etag": "\"abfa9c240c5ebc13a64f5fe67f51d2e0-1\"",
+                        "id": "7ea82d5b0af29d57cd4585ead71e8d51",
+                        "height": 473,
+                        "thumbnail": true
+                    },
+                    "price_type": "payant",
+                    "date_description": "Du 16 au 18 d\u00e9cembre 2020 : <br />mercredi, jeudi, vendredi de 20h30 \u00e0 22h20<br />et vendredi de 14h30 \u00e0 16h20<br />Du 7 au 9 avril 2021 : <br />mercredi, jeudi, vendredi de 20h30 \u00e0 22h20<br />et vendredi de 14h30 \u00e0 16h20<br />",
+                    "address_zipcode": "75012"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/e80269eb1f7edd4473469980dbbf127689218d9c",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "e80269eb1f7edd4473469980dbbf127689218d9c",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 1740,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-10-31T19:30:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-26T10:28:51+00:00",
+                    "access_type": "libre",
+                    "occurrences": "2020-10-31T17:00:00+01:00_2020-10-31T20:30:00+01:00",
+                    "contact_name": "Sunset & Sunside",
+                    "address_street": "60 Rue des Lombards",
+                    "id": "109682",
+                    "transport": "1, 4, 7, 11, 14 : Ch\u00e2telet (150m)\n4 : Les Halles (301m)",
+                    "category": "Concerts -> Jazz",
+                    "title": "Hommage \u00e0 Coleman HAWKINS & Tommy FLANGAN",
+                    "cover_alt": null,
+                    "date_start": "2020-10-31T16:00:00+00:00",
+                    "price_detail": null,
+                    "access_link": null,
+                    "lat_lon": {
+                        "lat": 48.8597984,
+                        "lon": 2.3477737000000616
+                    },
+                    "address_name": "Sunset & Sunside",
+                    "contact_twitter": null,
+                    "contact_phone": "0140264660",
+                    "contact_url": "https://www.sunset-sunside.com/2020/10/artiste/2990/7317/",
+                    "description": "<p>C'est la rencontre entre musiciens r\u00e9put\u00e9s et jeunes talents. Ce sont des moments uniques o\u00f9 se fabriquent les groupes et les artistes de demain. C'est l'interaction sans filet et sans fronti\u00e8re entre le public et les artistes. Chaque lundi, le Sunside vous donne rendez-vous \u00e0 21h autour d'un hommage pour c\u00e9l\u00e9brer la carri\u00e8re d'un musicien l\u00e9gendaire suivi de la jam session jusqu'\u00e0 pas d'heures ! A noter, l'entr\u00e9e est libre et la consommation obligatoire. Welcome home.</p>",
+                    "tags": [
+                        "Musique"
+                    ],
+                    "contact_mail": null,
+                    "access_mail": null,
+                    "lead_text": "La Jam session est le rendez-vous indispensable pour un club de jazz digne de ce nom !",
+                    "cover_url": "https://pro.sowprog.com/downloads?name=img_event_7ff87e03-b753-4cbb-99d1-0922141addd1.png",
+                    "contact_facebook": "https://twitter.com/SunsetSunside",
+                    "access_phone": null,
+                    "cover_credit": null,
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/109682/hommage-a-coleman-hawkins-tommy-flangan-avec-ramona-horvath",
+                    "cover": {
+                        "mimetype": "image/png",
+                        "height": 1181,
+                        "format": "PNG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/afe340495bfd07c67d2ad1096660f212",
+                        "color_summary": [
+                            "rgba(37, 45, 45, 1.00)",
+                            "rgba(110, 42, 42, 1.00)",
+                            "rgba(20, 0, 0, 1.00)"
+                        ],
+                        "thumbnail": true,
+                        "last_synchronized": "2020-10-25T05:11:52.541920",
+                        "width": 1181,
+                        "filename": "downloads.png",
+                        "id": "afe340495bfd07c67d2ad1096660f212"
+                    },
+                    "price_type": "conso",
+                    "date_description": "Le samedi 31 octobre 2020<br />de 17h \u00e0 20h30<br />",
+                    "address_zipcode": "75001"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/c55dff77133783707a954f2b0941ca2cfc4945a1",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "c55dff77133783707a954f2b0941ca2cfc4945a1",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 2548,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-11-29T18:30:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-26T10:20:49+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-11-29T18:00:00+01:00_2020-11-29T19:30:00+01:00",
+                    "contact_name": "Pan Piper Paris",
+                    "address_street": "4 Impasse Lamier",
+                    "id": "110727",
+                    "transport": "2 : Philippe Auguste (56m)\n9 : Charonne (447m)",
+                    "category": "Concerts -> Jazz",
+                    "title": "ELLINOA \u00ab\u00a0THE BALLAD OF OPHELIA \u00bb",
+                    "cover_alt": null,
+                    "date_start": "2020-11-29T17:00:00+00:00",
+                    "price_detail": "Guichet 20EUR\nPr\u00e9vente 16EUR",
+                    "access_link": "https://web.digitick.com/ellinoa-the-ballad-of-ophelia-concert-le-pan-piper-paris-29-novembre-2020-css5-panpiper-pg101-ri7209217.html",
+                    "lat_lon": {
+                        "lat": 48.8580657,
+                        "lon": 2.388762300000053
+                    },
+                    "address_name": "Pan Piper Paris",
+                    "contact_twitter": null,
+                    "contact_phone": "0",
+                    "contact_url": "https://pan-piper.com/live/",
+                    "description": "<p>Une fois encore, Ellinoa va l\u00e0 o\u00f9 on ne l\u2019attend pas. La compositrice et cheffe d\u2019orchestre qui avait marqu\u00e9 les esprits avec son Wanderlust Orchestra, nous donne \u00e0 d\u00e9couvrir cette fois un univers profond\u00e9ment diff\u00e9rent, construit autour de la figure de l\u2019h\u00e9ro\u00efne tragique Ophelia. Le quartet d\u00e9veloppe une entit\u00e9 double, acoustique et \u00e9lectrique. Des racines profond\u00e9ment jazz, organiques, au son large et p\u00e9n\u00e9trant, rehauss\u00e9es d\u2019une \u00e9nergie tr\u00e8s actuelle et inclassable nourrie de pop-ind\u00e9 et d\u2019accents rock. Un nouveau projet \u00e0 l\u2019univers \u00e9minemment personnel et riche de mille saveurs, o\u00f9 la chanteuse s\u2019associe \u00e0 trois musiciens : Arthur Henn, Olive Perrusson et Paul Jarret.</p><p class=\"\">Ouverture des portes \u00e0 17h30 \u2013 Concert de 18h00 \u00e0 19h30<br></p><p></p><p>Ellinoa : voix, compositions</p><p>Olive Perrusson : alto, choeurs</p><p>Arthur Henn : contrebasse, choeurs</p><p>Paul Jarret : guitare</p><p></p><p>Nouvel Album \u00ab&nbsp;The Ballad Of Ophelia \u00bb - Sortie le 23 octobre 2020</p>",
+                    "tags": [
+                        "Musique"
+                    ],
+                    "contact_mail": null,
+                    "access_mail": null,
+                    "lead_text": "En raison du couvre-feu, le concert initialement pr\u00e9vu le 2 novembre est report\u00e9 au DIMANCHE 29 NOVEMBRE \u00e0 18H00.",
+                    "cover_url": "https://pro.sowprog.com/downloads?name=img_event_ea55d3f3-5757-4b55-baa8-42bc346dc23d.jpg",
+                    "contact_facebook": "https://www.facebook.com/events/1171310319876786/",
+                    "access_phone": null,
+                    "cover_credit": null,
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/110727/ellinoa-the-ballad-of-ophelia",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "height": 600,
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/82eaa53c9bbf8ca9375b182256474d90",
+                        "color_summary": [
+                            "rgba(22, 21, 18, 1.00)",
+                            "rgba(113, 119, 111, 1.00)",
+                            "rgba(153, 163, 155, 1.00)"
+                        ],
+                        "thumbnail": true,
+                        "last_synchronized": "2020-09-15T04:00:48.226190",
+                        "width": 800,
+                        "filename": "downloads.jpe",
+                        "id": "82eaa53c9bbf8ca9375b182256474d90"
+                    },
+                    "price_type": "payant",
+                    "date_description": "Le dimanche 29 novembre 2020<br />de 18h \u00e0 19h30<br />",
+                    "address_zipcode": "75011"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/dfcfb1ae1cdcb25d1ed0fc38a6180dc80b88889c",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "dfcfb1ae1cdcb25d1ed0fc38a6180dc80b88889c",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 2654,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-11-11T11:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-26T08:52:58+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-11-04T14:30:00+01:00_2020-11-04T16:30:00+01:00;2020-11-11T10:00:00+01:00_2020-11-11T12:00:00+01:00",
+                    "contact_name": "Tout l'Or des Mots",
+                    "address_street": "\u00eele de la Cit\u00e9",
+                    "id": "113015",
+                    "transport": "4 : Cit\u00e9 (89m)\n4 : Saint-Michel (343m)",
+                    "category": "Animations -> Visite guid\u00e9e",
+                    "title": "Itin\u00e9raire litt\u00e9raire : Hugo, sur le parvis de Notre-Dame",
+                    "cover_alt": "Ile de la Cit\u00e9",
+                    "date_start": "2020-11-04T13:30:00+00:00",
+                    "price_detail": null,
+                    "access_link": "https://www.toutlordesmots.com/itineraires-litteraires/hugo-sur-le-parvis-de-notre-dame",
+                    "lat_lon": {
+                        "lat": 48.85462104795053,
+                        "lon": 2.347710896918047
+                    },
+                    "address_name": "Ile de la cit\u00e9",
+                    "contact_twitter": null,
+                    "contact_phone": null,
+                    "contact_url": "https://www.toutlordesmots.com/",
+                    "description": "<p class=\"\">C\u2019est une histoire qui a pour lieu, Paris la belle en l\u2019an de dieu, 1482\u2026 Une com\u00e9die musicale, des films, des versions anim\u00e9es, plus qu\u2019un roman, Notre-Dame de Paris est un monument sign\u00e9 Victor Hugo. Un coup de ma\u00eetre pour le jeune auteur qui donne vie \u00e0 des personnages inoubliables : Quasimodo, Esmeralda, la ch\u00e8vre Djali\u2026 Ils vivent, ils aiment, ils pleurent dans une ville que Victor Hugo d\u00e9crit de sa plume. Dans quels recoins de la cath\u00e9drale Quasimodo dissimule-t-il sa laideur ? O\u00f9 se produit la F\u00eate des fous et o\u00f9 danse la belle gitane Esm\u00e9ralda sous les yeux amoureux d\u2019un Frollo coupable ? Le Paris m\u00e9di\u00e9val d\u00e9crit par Hugo est-il encore reconnaissable aujourd\u2019hui ? Partons sur les traces des personnages, de leur d\u00e9cor, de leur cr\u00e9ateur, \u00e0 l\u2019ombre des tours de Notre-Dame.<br></p>",
+                    "tags": [
+                        "Insolite",
+                        "Ados",
+                        "Biblioth\u00e8ques",
+                        "Plein air",
+                        "En famille",
+                        "Enfants"
+                    ],
+                    "contact_mail": "contact@toutlordesmots.com",
+                    "access_mail": "contact@toutlordesmots.com",
+                    "lead_text": "Qui ne r\u00eave pas de croiser Quasimodo et Esmeralda au d\u00e9tour d\u2019une gargouille ? (Re)lisez leur c\u00e9l\u00e9brissime histoire sur l\u2019\u00eele de la Cit\u00e9, \u00e0 partir des gravures et des tableaux. Vivez le roman de l\u2019int\u00e9rieur !",
+                    "cover_url": "https://quefaire-api.paris.fr/images/11076",
+                    "contact_facebook": null,
+                    "access_phone": null,
+                    "cover_credit": "Mairie de Paris",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/113015/itineraire-litteraire-hugo-sur-le-parvis-de-notre-dame",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/b5d819dd1f2e9904357da484b5c66b23",
+                        "color_summary": [
+                            "rgba(237, 245, 253, 1.00)",
+                            "rgba(183, 188, 190, 1.00)",
+                            "rgba(132, 137, 136, 1.00)"
+                        ],
+                        "filename": "11076.jpe",
+                        "last_synchronized": "2020-10-30T05:01:10.040446",
+                        "width": 1200,
+                        "etag": "\"997d1bc5e5d1e534eb27f95e7c3cfb14\"",
+                        "id": "b5d819dd1f2e9904357da484b5c66b23",
+                        "height": 798,
+                        "thumbnail": true
+                    },
+                    "price_type": "payant",
+                    "date_description": "Le mercredi 4 novembre 2020<br />de 14h30 \u00e0 16h30<br />Le mercredi 11 novembre 2020<br />de 10h \u00e0 12h<br />",
+                    "address_zipcode": "75001"
+                }
+            }
+        },
+        {
+            "links": [
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/acc0ff894d643442a1e49bff7e292eb297ef6086",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+                    "rel": "dataset"
+                },
+                {
+                    "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+                    "rel": "datasets"
+                }
+            ],
+            "record": {
+                "id": "acc0ff894d643442a1e49bff7e292eb297ef6086",
+                "timestamp": "2020-10-30T05:00:05.757Z",
+                "size": 2654,
+                "fields": {
+                    "blind": 0,
+                    "pmr": 0,
+                    "date_end": "2020-11-07T19:00:00+00:00",
+                    "deaf": 0,
+                    "updated_at": "2020-10-23T13:21:38+00:00",
+                    "access_type": "reservation",
+                    "occurrences": "2020-11-07T18:00:00+01:00_2020-11-07T20:00:00+01:00",
+                    "contact_name": "Radio France",
+                    "address_street": "116 Avenue du Pr\u00e9sident Kennedy",
+                    "id": "107204",
+                    "transport": "10 : Javel - Andr\u00e9 Citro\u00ebn (677m)\n6 : Bir-Hakeim (701m)\n22 : place du docteur Hayem- Radio France  \n52 : Assomption - Radio Franc \n70 : Radio France \n72 : Radio France\nC : Kennedy",
+                    "category": "Concerts -> Classique",
+                    "title": "HIP HOP SYMPHONIQUE, 5E \u00c9DITION",
+                    "cover_alt": "Hip-Hop Symphonique",
+                    "date_start": "2020-11-07T17:00:00+00:00",
+                    "price_detail": "ENTR\u00c9E LIBRE dans la limite des places disponibles\nLa date d\u2019ouverture des r\u00e9servations sera communiqu\u00e9e d\u00e9but octobre sur maisondelaradio.fr",
+                    "access_link": "https://www.maisondelaradio.fr/evenement/concert-symphonique/hip-hop-symphonique-5e-edition",
+                    "lat_lon": {
+                        "lat": 48.852135,
+                        "lon": 2.279797
+                    },
+                    "address_name": "Auditorium de Radio France",
+                    "contact_twitter": "https://twitter.com/radiofrance",
+                    "contact_phone": "0156401516",
+                    "contact_url": "https://www.maisondelaradio.fr/evenement/concert-symphonique/hip-hop-symphonique-5e-edition",
+                    "description": "<p>\u00ab Hip Hop Symphonique \u00bb reprend les grands titres du rap fran\u00e7ais, arrang\u00e9s et jou\u00e9s en direct en compagnie de l\u2019Orchestre Philharmonique de Radio France. Prompt \u00e0 r\u00e9cup\u00e9rer les codes pour mieux les d\u00e9tourner, le hip-hop fait en effet feu de tout bois et a trouv\u00e9 son tempo \u00e0 la faveur des concerts donn\u00e9s avec la complicit\u00e9 de Mouv\u2019. En voici la cinqui\u00e8me \u00e9dition.</p><p>ORCHESTRE PHILHARMONIQUE DE RADIO FRANCE<br>DYLAN CORLAY direction</p><p>Pr\u00e9sent\u00e9 par Mouv\u2019, l\u2019Orchestre Philharmonique de Radio France et l\u2019Adami</p><p>ENTR\u00c9E LIBRE dans la limite des places disponibles<br>La date d\u2019ouverture des r\u00e9servations sera communiqu\u00e9e d\u00e9but octobre sur <a href=\"http://maisondelaradio.fr\" style=\"background-color: rgb(255, 255, 255);\"><span data-auto-link=\"true\" data-href=\"http://maisondelaradio.fr\">maisondelaradio.fr</span></a></p>",
+                    "tags": [
+                        "Musique"
+                    ],
+                    "contact_mail": null,
+                    "access_mail": null,
+                    "lead_text": "CONCERT SYMPHONIQUE",
+                    "cover_url": "https://quefaire-api.paris.fr/images/39693",
+                    "contact_facebook": "https://www.facebook.com/radiofrance/",
+                    "access_phone": "0156401516",
+                    "cover_credit": "Photo : Thomas Bartel",
+                    "address_city": "Paris",
+                    "programs": null,
+                    "url": "https://quefaire.paris.fr/107204/hip-hop-symphonique-5e-edition",
+                    "cover": {
+                        "mimetype": "image/jpeg",
+                        "format": "JPEG",
+                        "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/f7afa0516f155b7caddf713c5bfe86ee",
+                        "color_summary": [
+                            "rgba(96, 86, 105, 1.00)",
+                            "rgba(109, 100, 105, 1.00)",
+                            "rgba(72, 63, 64, 1.00)"
+                        ],
+                        "filename": "39693.jpe",
+                        "last_synchronized": "2020-10-30T05:01:22.506543",
+                        "width": 932,
+                        "etag": "\"c8000de3596658523258a49eafd728b0\"",
+                        "id": "f7afa0516f155b7caddf713c5bfe86ee",
+                        "height": 524,
+                        "thumbnail": true
+                    },
+                    "price_type": "gratuit",
+                    "date_description": "Le samedi 7 novembre 2020<br />de 18h \u00e0 20h<br />",
+                    "address_zipcode": "75016"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/1ea9c9dbfdcc44df66c941a81a989c88688d2c4e",
+            "rel": "self"
+        },
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-",
+            "rel": "dataset"
+        },
+        {
+            "href": "https://opendata.paris.fr/api/v2/catalog/datasets",
+            "rel": "datasets"
+        }
+    ],
+    "record": {
+        "id": "1ea9c9dbfdcc44df66c941a81a989c88688d2c4e",
+        "timestamp": "2020-10-30T05:00:05.757Z",
+        "size": 2808,
+        "fields": {
+            "blind": 0,
+            "pmr": 0,
+            "date_end": "2020-11-29T22:59:00+00:00",
+            "deaf": 0,
+            "updated_at": "2019-09-17T15:43:05+00:00",
+            "access_type": "conseillee",
+            "occurrences": "2020-11-28T21:30:00+01:00_2020-11-28T23:59:00+01:00;2020-11-29T21:30:00+01:00_2020-11-29T23:59:00+01:00",
+            "contact_name": null,
+            "address_street": "58 rue des Lombards",
+            "id": "89293",
+            "transport": "1, 4, 7, 11, 14 : Ch\u00e2telet (205m)\n4 : Les Halles (386m)",
+            "category": "Concerts -> Jazz",
+            "title": "#Ev\u00e9nement Carte blanche \u00e0 ROGER BIWANDU",
+            "cover_alt": "Carte blanche \u00e0 ROGER BIWANDU",
+            "date_start": "2020-11-28T20:30:00+00:00",
+            "price_detail": "25\u20ac",
+            "access_link": "https://www.lebaisersale.com/agenda",
+            "lat_lon": {
+                "lat": 48.859756,
+                "lon": 2.347889
+            },
+            "address_name": "Le Baiser Sal\u00e9",
+            "contact_twitter": "https://twitter.com/lebaisersale",
+            "contact_phone": null,
+            "contact_url": "https://www.lebaisersale.com/agenda",
+            "description": "<p><i><b>\u00ab Le Kian \u00bb Herv\u00e9 Gourdikian sax, \u00ab Kan\u2019 \u00bb Mario Canonge piano, \u00ab Titi \u00bb Thierry Fanfant basse, \u00ab Kemp \u00bb Roger Biwandu batterie</b></i></p><p>4 musiciens \"Baiser Sal\u00e9\" pour 2 concerts exceptionnels ! Roger Biwandu, batteur de Joe Zawinul, Salif Keita,\u2026 invite deux de ses anciens acolytes du fameux groupe Chic Hot, vous vous souvenez ? Oui vous vous souvenez\u2026  Mario Canonge, pianiste en qu\u00eate de phras\u00e9s r\u00e9solument modernes, mais jazzman proche de ses racines carib\u00e9ennes et le saxophone voluptueux et m\u00e9lodieux d'Herv\u00e9 Gourdikian. Si Roger joue r\u00e9guli\u00e8rement avec Herv\u00e9 dans plusieurs formations et avec Mario dans les siennes, ces trois l\u00e0 n\u2019ont plus rejou\u00e9 ensemble depuis la fin du groupe Chic Hot, dans le milieu des ann\u00e9es 2000. Pour la basse, le g\u00e9nial Thierry Fanfant a \u00e9t\u00e9 r\u00e9quisitionn\u00e9 pour lier le tout avec son savoir faire habituel. Groove et classe au programme. Outre les compositions de Roger, Mario et Herv\u00e9, on serait surpris de ne pas entendre de quoi chicoter\u2026</p> <div class=\"component-video\"><div class=\"component-video-wrapper\"><iframe src=\"https://www.youtube.com/embed/gzXzbAcsLgU?feature=oembed\" allowfullscreen=\"allowfullscreen\" title=\"Chic Hot - Pymfao\" frameborder=\"0\"></iframe></div></div>",
+            "tags": [
+                "Musique"
+            ],
+            "contact_mail": null,
+            "access_mail": null,
+            "lead_text": "4 musiciens \"Baiser Sal\u00e9\" pour 2 concerts exceptionnels !",
+            "cover_url": "https://quefaire-api.paris.fr/images/59376",
+            "contact_facebook": "https://www.facebook.com/lebaisersale/?ref=bookmarks",
+            "access_phone": null,
+            "cover_credit": "DR",
+            "address_city": "Paris",
+            "programs": null,
+            "url": "https://quefaire.paris.fr/89293/evenement-carte-blanche-a-roger-biwandu",
+            "cover": {
+                "mimetype": "image/jpeg",
+                "format": "JPEG",
+                "url": "https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/files/3c2b206d81e2925ae877be6fbb69ee75",
+                "color_summary": [
+                    "rgba(220, 219, 219, 1.00)",
+                    "rgba(166, 164, 160, 1.00)",
+                    "rgba(161, 158, 155, 1.00)"
+                ],
+                "filename": "59376.jpe",
+                "last_synchronized": "2020-10-30T05:15:43.783994",
+                "width": 775,
+                "etag": "\"a0d538b2ecff158ecf373a3864190fea\"",
+                "id": "3c2b206d81e2925ae877be6fbb69ee75",
+                "height": 831,
+                "thumbnail": true
+            },
+            "price_type": "payant",
+            "date_description": "Le samedi 28 novembre 2020<br />de 21h30 \u00e0 23h59<br />Le dimanche 29 novembre 2020<br />de 21h30 \u00e0 23h59<br />",
+            "address_zipcode": "75001"
+        }
+    }
+}
