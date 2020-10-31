@@ -35,7 +35,7 @@ $(document).ready(function () {
             let result = $('<article />', {}).appendTo('#results');
             let description = val.record.fields.description.substring(0, 140);
             let space = description.lastIndexOf(' ');
-            result.html('<img src="' + val.record.fields.cover_url + '"/>' + "<h2>" + val.record.fields.title + '</h2>' + '<p>' + val.record.fields.date_start + '</p>' + description.substring(0, space) + '...');
+            result.html('<img src="' + val.record.fields.cover_url + '"/>' + "<h2>" + val.record.fields.title + '</h2>' + '<p>' + val.record.fields.date_start + '</p>' + '<p>' + description.substring(0, space) + '... </p> <p>  <a href = "evenement.html?id='+ val.record.id +'"> voir plus </a> </p>' );
 
 
         });
@@ -46,7 +46,3 @@ $(document).ready(function () {
 
 });
 
-/*function recherche() {
-    let recherche = document.getElementById("recherche").value;
-    alert(recherche);
-}*/
