@@ -21,11 +21,11 @@ $(document).ready(function () {
         alert('La valeur de recherche est : ' + valeur);
     });*/
     let valeur = getUrlParameter("id");
-   
+
     $(document).ready(function () {
         let url = 'https://opendata.paris.fr/api/v2/catalog/datasets/que-faire-a-paris-/records/' + valeur;
         $.getJSON(url).success(function (data) {
-            
+
             $('#imagecover').attr('src', data.record.fields.cover_url)
             $('#montitre').html(data.record.fields.title);
             $('#date').html(data.record.fields.date_start);
@@ -34,10 +34,11 @@ $(document).ready(function () {
             $('#lieu').html(data.record.fields.address_street + data.record.fields.id);
             $('#acces').html(data.record.fields.transport);
             $('#info').html(data.record.fields.contact_twitter + data.record.fields.contact_url);
-        }).fail(function(data){ 
+            $('#button').html(window.location.replace('favories.html'));
+        }).fail(function (data) {
             window.location.replace('index.html');
         });
-        
+
     });
 })
 
